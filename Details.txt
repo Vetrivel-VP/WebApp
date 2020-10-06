@@ -1,0 +1,14 @@
+Entire grid spacing of a page is : 12
+Divide it into
+    2*2 = 6 + 6, 4 + 8, 8 + 4, 10 + 2,
+    3*4 = 4 + 4 + 4
+    4*3 = 3 + 3 + 3 + 3
+
+Zencoding:
+    Make easy to write the HTML language.
+
+    Comment :
+        CTRL : /
+
+        Responsive Masnory
+        
